@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_planet_details.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_planet_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_details.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\font_poppins_semibold.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_arrow_forward.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_home.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_character_item.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_character_item.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi_ic_launcher.png.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\drawable-nodpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_search.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\drawable_custom_progress.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\drawable\\custom_progress.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\font_poppins.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\font\\poppins.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi_ic_empty.png.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\drawable-nodpi\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_searchbox.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\drawable\\shape_searchbox.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_specie_item.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_specie_item.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\xml_activity_home_motion_scene.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\xml\\activity_home_motion_scene.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\raw_license_apache_2_0.txt.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\build\\generated\\aboutlibraries\\release\\res\\raw\\license_apache_2_0.txt"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\drawable_bg_details.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\drawable\\bg_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_film_item.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_film_item.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_species_details.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_species_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_profile_details.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_profile_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_film_details.xml.flat",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_film_details.xml"
+    }
+]

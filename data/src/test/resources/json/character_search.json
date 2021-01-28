@@ -1,0 +1,73 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "name": "Wedge Antilles",
+      "height": "170",
+      "mass": "77",
+      "hair_color": "brown",
+      "skin_color": "fair",
+      "eye_color": "hazel",
+      "birth_year": "21BBY",
+      "gender": "male",
+      "homeworld": "/api/planets/22/",
+      "films": [
+        "/api/films/1/"
+      ],
+      "species": [],
+      "vehicles": [
+        "/api/vehicles/14/"
+      ],
+      "starships": [
+        "/api/starships/12/"
+      ],
+      "created": "2014-12-12T11:08:06.469000Z",
+      "edited": "2014-12-20T21:17:50.341000Z",
+      "url": "/api/people/18/"
+    },
+    {
+      "name": "Poggle the Lesser",
+      "height": "183",
+      "mass": "80",
+      "hair_color": "none",
+      "skin_color": "green",
+      "eye_color": "yellow",
+      "birth_year": "unknown",
+      "gender": "male",
+      "homeworld": "/api/planets/11/",
+      "films": [
+        "/api/films/5/"
+      ],
+      "species": [
+        "/api/species/28/"
+      ],
+      "vehicles": [],
+      "starships": [],
+      "created": "2014-12-20T16:40:43.977000Z",
+      "edited": "2014-12-20T21:17:50.453000Z",
+      "url": "/api/people/63/"
+    },
+    {
+      "name": "Raymus Antilles",
+      "height": "188",
+      "mass": "79",
+      "hair_color": "brown",
+      "skin_color": "light",
+      "eye_color": "brown",
+      "birth_year": "unknown",
+      "gender": "male",
+      "homeworld": "/api/planets/2/",
+      "films": [
+        "/api/films/1/"
+      ],
+      "species": [],
+      "vehicles": [],
+      "starships": [],
+      "created": "2014-12-20T19:49:35.583000Z",
+      "edited": "2014-12-20T21:17:50.493000Z",
+      "url": "/api/people/81/"
+    }
+  ]
+}

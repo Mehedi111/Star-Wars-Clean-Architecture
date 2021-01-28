@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+
+    <string name="home_page_title">Explore Star Wars</string>
+    <string name="search_hint">Search Character</string>
+    <string name="info_no_matching_results">No characters found</string>
+    <string name="content_description_more_arrow">View Character Details</string>
+    <string name="text_planet">PLANET</string>
+    <string name="text_species">SPECIES</string>
+    <string name="text_films">FILMS</string>
+    <string name="text_character">CHARACTERS</string>
+    <string name="text_description">DESCRIPTION</string>
+
+    <string name="text_empty_planet_info">Planet information unavailable</string>
+    <string name="text_empty_specie_info">Species information unavailable</string>
+    <string name="text_empty_film_info">Films information unavailable</string>
+
+
+    <!--prefix text-->
+    <string name="text_name"><![CDATA[<b>Name :</b>]]> %s</string>
+    <string name="text_birth_year"><![CDATA[<b>Birth Year :</b>]]> %s</string>
+    <string name="text_height"><![CDATA[<b>Height :</b>]]> %s cm, %s</string>
+    <string name="text_population"><![CDATA[<b>Population :</b>]]> %s</string>
+    <string name="text_language"><![CDATA[<b>Language :</b>]]> %s</string>
+    <string name="text_home_world"><![CDATA[<b>Home World :</b>]]> %s</string>
+
+
+    <!--post fix text-->
+    <string name="text_profile">%s\'s Profile</string>
+
+    <!--Common-->
+    <string name="image_content_des_default">Image</string>
+    <string name="text_ok">Okay</string>
+
+    <!-- Error Strings -->
+    <string name="error_timeout">Server Timeout!</string>
+    <string name="error_unable_to_reach">Unable to reach server!</string>
+    <string name="error_no_internet_connection">No internet connection!</string>
+    <string name="error_loading_character_details">Could not load character details</string>
+    <string name="error_data_conversion">Failed to parse data!</string>
+    <string name="error_unknown">An unknown error occurred!</string>
+
+</resources>

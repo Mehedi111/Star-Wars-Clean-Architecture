@@ -1,0 +1,139 @@
+com/ms/starwars/ui/home/Hilt_HomeActivity.java
+ com.ms.starwars.ui.home.Hilt_HomeActivity
+com/ms/starwars/databinding/ActivityDetailsBinding.java
+ com.ms.starwars.databinding.ActivityDetailsBinding
+com/ms/starwars/ui/details/DetailsViewModel_AssistedFactory_Factory.java
+ com.ms.starwars.ui.details.DetailsViewModel_AssistedFactory_Factory
+com/ms/starwars/Hilt_BaseApplication.java
+ com.ms.starwars.Hilt_BaseApplication
+ com.ms.starwars.Hilt_BaseApplication$1
+com/ms/starwars/di/module/UrlProviderModule_ProvideUrlFactory.java
+ com.ms.starwars.di.module.UrlProviderModule_ProvideUrlFactory
+ com.ms.starwars.di.module.UrlProviderModule_ProvideUrlFactory$InstanceHolder
+com/ms/starwars/ui/home/HomeActivity_GeneratedInjector.java
+ com.ms.starwars.ui.home.HomeActivity_GeneratedInjector
+com/ms/starwars/databinding/LayoutSpecieItemBinding.java
+ com.ms.starwars.databinding.LayoutSpecieItemBinding
+com/ms/starwars/databinding/LayoutCharacterItemBinding.java
+ com.ms.starwars.databinding.LayoutCharacterItemBinding
+com/ms/starwars/ui/adapters/SearchedCharacterAdapter_Factory.java
+ com.ms.starwars.ui.adapters.SearchedCharacterAdapter_Factory
+ com.ms.starwars.ui.adapters.SearchedCharacterAdapter_Factory$InstanceHolder
+com/ms/starwars/BuildConfig.java
+ com.ms.starwars.BuildConfig
+com/ms/starwars/databinding/LayoutProfileDetailsBinding.java
+ com.ms.starwars.databinding.LayoutProfileDetailsBinding
+hilt_aggregated_deps/com_ms_starwars_BaseApplication_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_BaseApplication_GeneratedInjectorModuleDeps
+com/ms/starwars/di/module/UseCaseModule_ProvideSearchUseCaseFactory.java
+ com.ms.starwars.di.module.UseCaseModule_ProvideSearchUseCaseFactory
+com/ms/starwars/ui/details/DetailsViewModel_HiltModule.java
+ com.ms.starwars.ui.details.DetailsViewModel_HiltModule
+com/ms/starwars/ui/details/DetailsActivity_GeneratedInjector.java
+ com.ms.starwars.ui.details.DetailsActivity_GeneratedInjector
+hilt_aggregated_deps/com_ms_starwars_di_module_UrlProviderModuleModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_di_module_UrlProviderModuleModuleDeps
+com/ms/starwars/databinding/ActivityHomeBinding.java
+ com.ms.starwars.databinding.ActivityHomeBinding
+hilt_aggregated_deps/com_ms_starwars_ui_home_HomeActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_ui_home_HomeActivity_GeneratedInjectorModuleDeps
+com/ms/starwars/ui/adapters/FilmAdapter_Factory.java
+ com.ms.starwars.ui.adapters.FilmAdapter_Factory
+ com.ms.starwars.ui.adapters.FilmAdapter_Factory$InstanceHolder
+com/ms/starwars/di/module/NetworkModule_OkHttpLoggingInterceptorFactory.java
+ com.ms.starwars.di.module.NetworkModule_OkHttpLoggingInterceptorFactory
+ com.ms.starwars.di.module.NetworkModule_OkHttpLoggingInterceptorFactory$InstanceHolder
+com/ms/starwars/databinding/LayoutPlanetDetailsBinding.java
+ com.ms.starwars.databinding.LayoutPlanetDetailsBinding
+com/ms/starwars/ui/details/DetailsViewModel_AssistedFactory.java
+ com.ms.starwars.ui.details.DetailsViewModel_AssistedFactory
+com/ms/starwars/databinding/LayoutSpeciesDetailsBinding.java
+ com.ms.starwars.databinding.LayoutSpeciesDetailsBinding
+com/ms/starwars/di/module/NetworkModule_BaseApiServiceFactory.java
+ com.ms.starwars.di.module.NetworkModule_BaseApiServiceFactory
+com/ms/starwars/di/module/UseCaseModule_ProvidePlanetUseCaseFactory.java
+ com.ms.starwars.di.module.UseCaseModule_ProvidePlanetUseCaseFactory
+com/ms/starwars/ui/adapters/SpeciesAdapter_Factory.java
+ com.ms.starwars.ui.adapters.SpeciesAdapter_Factory
+ com.ms.starwars.ui.adapters.SpeciesAdapter_Factory$InstanceHolder
+hilt_aggregated_deps/com_ms_starwars_ui_details_DetailsActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_ui_details_DetailsActivity_GeneratedInjectorModuleDeps
+com/ms/starwars/ui/home/HomeViewModel_AssistedFactory_Factory.java
+ com.ms.starwars.ui.home.HomeViewModel_AssistedFactory_Factory
+com/ms/starwars/ui/home/HomeViewModel_HiltModule.java
+ com.ms.starwars.ui.home.HomeViewModel_HiltModule
+com/ms/starwars/BaseApplication_GeneratedInjector.java
+ com.ms.starwars.BaseApplication_GeneratedInjector
+com/ms/starwars/ui/home/HomeActivity_MembersInjector.java
+ com.ms.starwars.ui.home.HomeActivity_MembersInjector
+com/ms/starwars/DaggerBaseApplication_HiltComponents_ApplicationC.java
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$1
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCBuilder
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCBuilder
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$SwitchingProvider
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$Builder
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ServiceCBuilder
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$ServiceCImpl
+ com.ms.starwars.DaggerBaseApplication_HiltComponents_ApplicationC$SwitchingProvider
+com/ms/starwars/di/module/NetworkModule_BaseOkHttpClientFactory.java
+ com.ms.starwars.di.module.NetworkModule_BaseOkHttpClientFactory
+com/ms/starwars/ui/details/DetailsActivity_MembersInjector.java
+ com.ms.starwars.ui.details.DetailsActivity_MembersInjector
+com/ms/starwars/BaseApplication_HiltComponents.java
+ com.ms.starwars.BaseApplication_HiltComponents
+ com.ms.starwars.BaseApplication_HiltComponents$ActivityC
+ com.ms.starwars.BaseApplication_HiltComponents$ActivityC$Builder
+ com.ms.starwars.BaseApplication_HiltComponents$ActivityCBuilderModule
+ com.ms.starwars.BaseApplication_HiltComponents$ActivityRetainedC
+ com.ms.starwars.BaseApplication_HiltComponents$ActivityRetainedC$Builder
+ com.ms.starwars.BaseApplication_HiltComponents$ActivityRetainedCBuilderModule
+ com.ms.starwars.BaseApplication_HiltComponents$ApplicationC
+ com.ms.starwars.BaseApplication_HiltComponents$FragmentC
+ com.ms.starwars.BaseApplication_HiltComponents$FragmentC$Builder
+ com.ms.starwars.BaseApplication_HiltComponents$FragmentCBuilderModule
+ com.ms.starwars.BaseApplication_HiltComponents$ServiceC
+ com.ms.starwars.BaseApplication_HiltComponents$ServiceC$Builder
+ com.ms.starwars.BaseApplication_HiltComponents$ServiceCBuilderModule
+ com.ms.starwars.BaseApplication_HiltComponents$ViewC
+ com.ms.starwars.BaseApplication_HiltComponents$ViewC$Builder
+ com.ms.starwars.BaseApplication_HiltComponents$ViewCBuilderModule
+ com.ms.starwars.BaseApplication_HiltComponents$ViewWithFragmentC
+ com.ms.starwars.BaseApplication_HiltComponents$ViewWithFragmentC$Builder
+ com.ms.starwars.BaseApplication_HiltComponents$ViewWithFragmentCBuilderModule
+com/ms/starwars/databinding/LayoutFilmItemBinding.java
+ com.ms.starwars.databinding.LayoutFilmItemBinding
+hilt_aggregated_deps/com_ms_starwars_ui_home_HomeViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_ui_home_HomeViewModel_HiltModuleModuleDeps
+com/ms/starwars/databinding/LayoutFilmDetailsBinding.java
+ com.ms.starwars.databinding.LayoutFilmDetailsBinding
+com/ms/starwars/di/module/NetworkModule_BaseRetrofitFactory.java
+ com.ms.starwars.di.module.NetworkModule_BaseRetrofitFactory
+com/ms/starwars/di/module/UseCaseModule_ProvideFilmUseCaseFactory.java
+ com.ms.starwars.di.module.UseCaseModule_ProvideFilmUseCaseFactory
+com/ms/starwars/di/module/DataSourceModule_ProvideCharacterSearchRepoFactory.java
+ com.ms.starwars.di.module.DataSourceModule_ProvideCharacterSearchRepoFactory
+com/ms/starwars/di/module/UseCaseModule_ProvideSpecieUseCaseFactory.java
+ com.ms.starwars.di.module.UseCaseModule_ProvideSpecieUseCaseFactory
+com/ms/starwars/ui/home/HomeViewModel_AssistedFactory.java
+ com.ms.starwars.ui.home.HomeViewModel_AssistedFactory
+hilt_aggregated_deps/com_ms_starwars_di_module_NetworkModuleModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_di_module_NetworkModuleModuleDeps
+hilt_aggregated_deps/com_ms_starwars_ui_details_DetailsViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_ui_details_DetailsViewModel_HiltModuleModuleDeps
+hilt_aggregated_deps/com_ms_starwars_di_module_DataSourceModuleModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_di_module_DataSourceModuleModuleDeps
+hilt_aggregated_deps/com_ms_starwars_di_module_UseCaseModuleModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_di_module_UseCaseModuleModuleDeps
+com/ms/starwars/ui/details/Hilt_DetailsActivity.java
+ com.ms.starwars.ui.details.Hilt_DetailsActivity
+com/ms/starwars/di/module/DataSourceModule_ProvideCharacterDetailsRepoFactory.java
+ com.ms.starwars.di.module.DataSourceModule_ProvideCharacterDetailsRepoFactory

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_character_item.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_character_item.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_profile_details.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_profile_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_planet_details.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_planet_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_film_item.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_film_item.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_species_details.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_species_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_details.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_specie_item.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_specie_item.xml"
+    },
+    {
+        "merged": "E:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_film_details.xml",
+        "source": "E:\\Personal\\Project\\StarWars\\app\\src\\main\\res\\layout\\layout_film_details.xml"
+    }
+]

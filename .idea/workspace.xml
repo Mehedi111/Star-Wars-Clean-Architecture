@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3_xl" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cf82a50-6c57-46cf-959d-a3b45596004e" name="Default Changelist" comment="&quot;All Done&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[HZAL1670DAJ53101671]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin Data Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Sealed Class" />
+        <option value="Kotlin Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="E:\Project\Android Project\StarWars\key\default_key.jks" />
+    <option name="KEY_ALIAS" value="Star Wars" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n9IPEUdL9RcYPf6fJJRwVS24MH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="Star_Wars.app" />
+    <property name="DEBUGGABLE_DEVICE" value="8_Foldable_API_29 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.ms.starwars" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="8_Foldable_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-27T15:48:01.149Z" />
+    <property name="ExportApk.ApkPath" value="E:\Project\Android Project\StarWars\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-viewC:/AndroidSdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/AndroidSdk/sources/android-29/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android-custom-viewC:/Users/Sarik/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.0-alpha04/f27d98a59b17c8f160111c71fae3a3633b80bba2/recyclerview-1.2.0-alpha04-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/Sarik/.gradle/caches/modules-2/files-2.1/com.borjabravo/readmoretextview/2.1.0/b030287fe2b9fdcfac182285ca166e3e5b1c19e7/readmoretextview-2.1.0-sources.jar!/com/borjabravo/readmoretextview/ReadMoreTextView.java_SELECTED" value="ReadMoreTextView" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="C:/AndroidSdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/com/ms/starwars/ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewC:/AndroidSdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/AndroidSdk/sources/android-29/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Sarik/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.0-alpha04/f27d98a59b17c8f160111c71fae3a3633b80bba2/recyclerview-1.2.0-alpha04-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Sarik/.gradle/caches/modules-2/files-2.1/com.borjabravo/readmoretextview/2.1.0/b030287fe2b9fdcfac182285ca166e3e5b1c19e7/readmoretextview-2.1.0-sources.jar!/com/borjabravo/readmoretextview/ReadMoreTextView.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.ms.starwars.others" />
+      <recent name="com.ms.starwars.models.states.details" />
+      <recent name="com.ms.starwars.ui.adapters" />
+      <recent name="com.ms.starwars.ui.adapters.film" />
+      <recent name="com.ms.domain.usecase.search" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ms.starwars.ui.details" />
+      <recent name="com.ms.starwars.ui.home" />
+      <recent name="com.ms.data.repository" />
+      <recent name="com.ms.starwars.utils" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.ms.starwars.utils" />
+      <recent name="com.ms.starwars.di.module" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ms.starwars.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Personal\Project\StarWars\images" />
+      <recent name="E:\Personal\Project\StarWars\app\src\debug\res\xml" />
+      <recent name="E:\Personal\Project\StarWars\app\src\debug" />
+      <recent name="E:\Personal\Project\StarWars\app\src\androidTest\resources" />
+      <recent name="E:\Personal\Project\StarWars\data\src\test\kotlin\com\ms\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project\Android Project\StarWars\data" />
+    </key>
+    <key name="android.template.-1405892402">
+      <recent name="com.ms.starwars.ui.details" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="CharacterDetailsRepositoryTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Star_Wars.data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.data.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.data.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.data.repository.CharacterDetailsRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterSearchRepositoryTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Star_Wars.data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.data.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.data.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.data.repository.CharacterSearchRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConverterTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Star_Wars.app" />
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.starwars.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.starwars.others" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.starwars.others.ConverterTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DomainToPresentationTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Star_Wars.app" />
+      <shortenClasspath name="MANIFEST" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.starwars.others.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.starwars.others" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.starwars.others.DomainToPresentationTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapJsonToDomainTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Star_Wars.data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ms.data.mappers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ms.data.mappers" />
+      <option name="MAIN_CLASS_NAME" value="com.ms.data.mappers.MapJsonToDomainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Star_Wars.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android JUnit.DomainToPresentationTest" />
+      <item itemvalue="Android JUnit.ConverterTest" />
+      <item itemvalue="Android JUnit.MapJsonToDomainTest" />
+      <item itemvalue="Android JUnit.CharacterDetailsRepositoryTest" />
+      <item itemvalue="Android JUnit.CharacterSearchRepositoryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CharacterSearchRepositoryTest" />
+        <item itemvalue="Android JUnit.CharacterDetailsRepositoryTest" />
+        <item itemvalue="Android JUnit.MapJsonToDomainTest" />
+        <item itemvalue="Android JUnit.ConverterTest" />
+        <item itemvalue="Android JUnit.DomainToPresentationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf82a50-6c57-46cf-959d-a3b45596004e" name="Default Changelist" comment="" />
+      <created>1610795853483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610795853483</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;Home api response&quot;">
+      <created>1610957271019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610957271019</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Details page p1&quot;">
+      <created>1610998911163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610998911164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Motion layout added&quot;">
+      <created>1611040569684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611040569685</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Details page p-2&quot;">
+      <created>1611127676435</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611127676435</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;Details page p-3&quot;">
+      <created>1611172372094</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611172372095</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;Implementation done&quot;">
+      <created>1611272258132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611272258132</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;All Done&quot;">
+      <created>1611341151986</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611341151986</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Convert to DSL&quot;">
+      <created>1611357542850</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611357542850</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;Convert to DSL&quot;">
+      <created>1611360158377</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611360158377</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;APP TDD p-1&quot;">
+      <created>1611431903001</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611431903001</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&quot;api testing p1&quot;">
+      <created>1611474360246</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611474360246</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&quot;api testing p2&quot;">
+      <created>1611486509532</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611486509533</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&quot;Ui Testing&quot;">
+      <created>1611521529297</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611521529297</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&quot;Ui Testing Home Done&quot;">
+      <created>1611559242480</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611559242480</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&quot;Ui Testing Home Done p-2&quot;">
+      <created>1611560742455</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611560742455</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&quot;Ui Testing Home Done p-3&quot;">
+      <created>1611569768273</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611569768273</updated>
+    </task>
+    <task id="LOCAL-00017" summary="&quot;Final Commit&quot;">
+      <created>1611594953834</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611594953834</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&quot;Final Commit&quot;">
+      <created>1611595687105</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611595687105</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&quot;Readme Added&quot;">
+      <created>1611595732037</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1611595732037</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&quot;Readme Added&quot;">
+      <created>1611603384056</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1611603384056</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&quot;Readme Added&quot;">
+      <created>1611606651260</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1611606651260</updated>
+    </task>
+    <task id="LOCAL-00022" summary="&quot;Readme Added&quot;">
+      <created>1611632944969</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611632944969</updated>
+    </task>
+    <task id="LOCAL-00023" summary="&quot;Readme Added&quot;">
+      <created>1611633038106</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1611633038106</updated>
+    </task>
+    <task id="LOCAL-00024" summary="&quot;Readme updated&quot;">
+      <created>1611636120617</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1611636120617</updated>
+    </task>
+    <task id="LOCAL-00025" summary="&quot;Readme updated&quot;">
+      <created>1611636396932</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1611636396932</updated>
+    </task>
+    <task id="LOCAL-00026" summary="&quot;Readme updated&quot;">
+      <created>1611645263717</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1611645263718</updated>
+    </task>
+    <task id="LOCAL-00027" summary="&quot;Readme updated&quot;">
+      <created>1611693208299</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1611693208299</updated>
+    </task>
+    <task id="LOCAL-00028" summary="&quot;Readme updated&quot;">
+      <created>1611694067939</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1611694067939</updated>
+    </task>
+    <task id="LOCAL-00029" summary="&quot;Readme updated&quot;">
+      <created>1611722769589</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1611722769589</updated>
+    </task>
+    <task id="LOCAL-00030" summary="&quot;Readme updated&quot;">
+      <created>1611722857416</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1611722857416</updated>
+    </task>
+    <task id="LOCAL-00031" summary="&quot;Readme updated&quot;">
+      <created>1611722998130</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1611722998130</updated>
+    </task>
+    <task id="LOCAL-00032" summary="&quot;Readme updated&quot;">
+      <created>1611725665359</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1611725665359</updated>
+    </task>
+    <task id="LOCAL-00033" summary="&quot;Readme updated&quot;">
+      <created>1611730761297</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1611730761297</updated>
+    </task>
+    <task id="LOCAL-00034" summary="&quot;Readme updated&quot;">
+      <created>1611756516048</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1611756516048</updated>
+    </task>
+    <task id="LOCAL-00035" summary="&quot;Readme updated&quot;">
+      <created>1611756796253</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1611756796253</updated>
+    </task>
+    <task id="LOCAL-00036" summary="&quot;Readme updated&quot;">
+      <created>1611757160162</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1611757160162</updated>
+    </task>
+    <task id="LOCAL-00037" summary="&quot;All Done&quot;">
+      <created>1611758278063</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1611758278063</updated>
+    </task>
+    <task id="LOCAL-00038" summary="&quot;All Done&quot;">
+      <created>1611759165033</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1611759165033</updated>
+    </task>
+    <task id="LOCAL-00039" summary="&quot;All Done&quot;">
+      <created>1611759232846</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1611759232846</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:E:/Personal/Project/StarWars/domain" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="&quot;Home api response&quot;" />
+    <MESSAGE value="&quot;Details page p1&quot;" />
+    <MESSAGE value="&quot;Motion layout added&quot;" />
+    <MESSAGE value="&quot;Details page p-2&quot;" />
+    <MESSAGE value="&quot;Details page p-3&quot;" />
+    <MESSAGE value="&quot;Implementation done&quot;" />
+    <MESSAGE value="&quot;Details page done&quot;" />
+    <MESSAGE value="&quot;Convert to DSL&quot;" />
+    <MESSAGE value="&quot;APP TDD p-1&quot;" />
+    <MESSAGE value="&quot;api testing p1&quot;" />
+    <MESSAGE value="&quot;api testing p2&quot;" />
+    <MESSAGE value="&quot;Ui Testing&quot;" />
+    <MESSAGE value="&quot;Ui Testing Home Done&quot;" />
+    <MESSAGE value="&quot;Ui Testing Home Done p-2&quot;" />
+    <MESSAGE value="&quot;Ui Testing Home Done p-3&quot;" />
+    <MESSAGE value="&quot;Final Commit&quot;" />
+    <MESSAGE value="&quot;Readme Added&quot;" />
+    <MESSAGE value="&quot;Readme updated&quot;" />
+    <MESSAGE value="&quot;All Done&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;All Done&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="30" key="#ConverterTest.height_in_cm_should_return_height_in_Feet_only_if_inches_is_0" timestamp="1611427392421">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="286" y="30" key="#ConverterTest.height_in_cm_should_return_height_in_Feet_only_if_inches_is_0/0.30.1366.738@0.30.1366.738" timestamp="1611427392421" />
+    <state x="286" y="30" key="#HomeViewModelTest.pass_valid_character_name_should_return_success_state" timestamp="1611415257113">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="286" y="30" key="#HomeViewModelTest.pass_valid_character_name_should_return_success_state/0.30.1366.738@0.30.1366.738" timestamp="1611415257113" />
+    <state x="392" y="30" key="#app" timestamp="1611353590587">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="392" y="30" key="#app/0.30.1366.738@0.30.1366.738" timestamp="1611353590587" />
+    <state x="137" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611758199125">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="137" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1611758199125" />
+    <state x="474" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1611463738540">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="474" y="114" key="#com.intellij.ide.util.MemberChooser/0.30.1366.738@0.30.1366.738" timestamp="1611463738540" />
+    <state x="408" y="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611511138274">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="408" y="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.30.1366.738@0.30.1366.738" timestamp="1611511138274" />
+    <state x="0" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611687079022">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="0" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1366.738@0.30.1366.738" timestamp="1611687079022" />
+    <state x="413" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611546606402">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1366.738@0.30.1366.738" timestamp="1611546606402" />
+    <state x="415" y="190" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1611426599877">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="415" y="190" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.30.1366.738@0.30.1366.738" timestamp="1611426599877" />
+    <state x="-17" y="150" key="#xdebugger.evaluate" timestamp="1611506218218">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="-17" y="150" key="#xdebugger.evaluate/0.30.1366.738@0.30.1366.738" timestamp="1611506218218" />
+    <state x="139" y="141" width="1166" height="538" key="AVDManager" timestamp="1611603499639">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="139" y="141" width="1166" height="538" key="AVDManager/0.30.1366.738@0.30.1366.738" timestamp="1611603499639" />
+    <state x="263" y="153" key="AndroidCreateResourceFileDialog" timestamp="1611168721858">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="263" y="153" key="AndroidCreateResourceFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1611168721858" />
+    <state x="528" y="202" key="AndroidCreateXmlResourceDialog" timestamp="1611085697733">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="528" y="202" key="AndroidCreateXmlResourceDialog/0.30.1366.738@0.30.1366.738" timestamp="1611085697733" />
+    <state x="471" y="145" key="AndroidProcessChooserDialog" timestamp="1611264694261">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="471" y="145" key="AndroidProcessChooserDialog/0.30.1366.738@0.30.1366.738" timestamp="1611264694261" />
+    <state x="310" y="30" key="CommitChangelistDialog2" timestamp="1611760821404">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="310" y="30" key="CommitChangelistDialog2/0.30.1366.738@0.30.1366.738" timestamp="1611760821404" />
+    <state x="363" y="153" key="Downloadable.Font.Dialog.Size" timestamp="1610908948101">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="363" y="153" key="Downloadable.Font.Dialog.Size/0.30.1366.738@0.30.1366.738" timestamp="1610908948101" />
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1611760693780">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1611760693780" />
+    <state x="0" y="30" key="FileDocumentManager.FileCacheConflict" timestamp="1610905951389">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="0" y="30" key="FileDocumentManager.FileCacheConflict/0.30.1366.738@0.30.1366.738" timestamp="1610905951389" />
+    <state width="1306" height="501" key="GridCell.Tab.0.bottom" timestamp="1611762887294">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="501" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1611762887294" />
+    <state width="1306" height="501" key="GridCell.Tab.0.center" timestamp="1611762887294">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="501" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1611762887294" />
+    <state width="1306" height="501" key="GridCell.Tab.0.left" timestamp="1611762887294">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="501" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1611762887294" />
+    <state width="1306" height="501" key="GridCell.Tab.0.right" timestamp="1611762887294">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="501" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1611762887294" />
+    <state width="1306" height="191" key="GridCell.Tab.1.bottom" timestamp="1611521547328">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="191" key="GridCell.Tab.1.bottom/0.30.1366.738@0.30.1366.738" timestamp="1611521547328" />
+    <state width="1306" height="191" key="GridCell.Tab.1.center" timestamp="1611521547327">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="191" key="GridCell.Tab.1.center/0.30.1366.738@0.30.1366.738" timestamp="1611521547327" />
+    <state width="1306" height="191" key="GridCell.Tab.1.left" timestamp="1611521547327">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="191" key="GridCell.Tab.1.left/0.30.1366.738@0.30.1366.738" timestamp="1611521547327" />
+    <state width="1306" height="191" key="GridCell.Tab.1.right" timestamp="1611521547327">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1306" height="191" key="GridCell.Tab.1.right/0.30.1366.738@0.30.1366.738" timestamp="1611521547327" />
+    <state x="184" y="43" key="SettingsEditor" timestamp="1611761957667">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="184" y="43" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1611761957667" />
+    <state x="275" y="131" key="Vcs.Push.Dialog.v2" timestamp="1611759248285">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="131" key="Vcs.Push.Dialog.v2/0.30.1366.738@0.30.1366.738" timestamp="1611759248285" />
+    <state x="499" y="176" key="chooseDestDirectoryDialog" timestamp="1611507772778">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="499" y="176" key="chooseDestDirectoryDialog/0.30.1366.738@0.30.1366.738" timestamp="1611507772778" />
+    <state x="100" y="130" width="1166" height="538" key="dock-window-1" timestamp="1611724256327">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="100" y="130" width="1166" height="538" key="dock-window-1/0.30.1366.738@0.30.1366.738" timestamp="1611724256327" />
+    <state x="488" y="260" key="git4idea.rebase.GitRebaseDialog" timestamp="1610877754268">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="488" y="260" key="git4idea.rebase.GitRebaseDialog/0.30.1366.738@0.30.1366.738" timestamp="1610877754268" />
+    <state x="443" y="300" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1611760963731">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="443" y="300" key="git4idea.remote.GitConfigureRemotesDialog/0.30.1366.738@0.30.1366.738" timestamp="1611760963731" />
+    <state x="497" y="293" key="git4idea.ui.GitResetDialog" timestamp="1611758673578">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="497" y="293" key="git4idea.ui.GitResetDialog/0.30.1366.738@0.30.1366.738" timestamp="1611758673578" />
+    <state x="454" y="196" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1611507772802">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="454" y="196" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.30.1366.738@0.30.1366.738" timestamp="1611507772802" />
+    <state x="339" y="182" key="run.anything.popup" timestamp="1611719570431">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="339" y="182" key="run.anything.popup/0.30.1366.738@0.30.1366.738" timestamp="1611719570431" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1611757713470">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.30.1366.738@0.30.1366.738" timestamp="1611757713470" />
+  </component>
+</project>

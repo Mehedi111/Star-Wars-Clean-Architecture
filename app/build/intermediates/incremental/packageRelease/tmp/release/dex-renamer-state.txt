@@ -1,0 +1,4 @@
+#Wed Jan 27 20:24:36 BDT 2021
+base.0=E\:\\Personal\\Project\\StarWars\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

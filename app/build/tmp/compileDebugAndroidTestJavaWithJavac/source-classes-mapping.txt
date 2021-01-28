@@ -1,0 +1,99 @@
+dagger/hilt/android/internal/testing/TestComponentDataSupplierImpl.java
+ dagger.hilt.android.internal.testing.TestComponentDataSupplierImpl
+com/ms/starwars/ui/home/DaggerHomeActivityTest_HiltComponents_ApplicationC.java
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$1
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCBuilder
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCBuilder
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$SwitchingProvider
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$Builder
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ServiceCBuilder
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$ServiceCImpl
+ com.ms.starwars.ui.home.DaggerHomeActivityTest_HiltComponents_ApplicationC$SwitchingProvider
+com/ms/starwars/ui/details/DetailsActivityTest_HiltComponents.java
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ActivityC
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ActivityC$Builder
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ActivityCBuilderModule
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ActivityRetainedC
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ActivityRetainedC$Builder
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ActivityRetainedCBuilderModule
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ApplicationC
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$FragmentC
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$FragmentC$Builder
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$FragmentCBuilderModule
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ServiceC
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ServiceC$Builder
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ServiceCBuilderModule
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ViewC
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ViewC$Builder
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ViewCBuilderModule
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ViewWithFragmentC
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ViewWithFragmentC$Builder
+ com.ms.starwars.ui.details.DetailsActivityTest_HiltComponents$ViewWithFragmentCBuilderModule
+hilt_aggregated_deps/com_ms_starwars_ui_home_HomeActivityTest_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_ui_home_HomeActivityTest_GeneratedInjectorModuleDeps
+com/ms/starwars/ui/details/DaggerDetailsActivityTest_HiltComponents_ApplicationC.java
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$1
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCBuilder
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCBuilder
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$SwitchingProvider
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$Builder
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ServiceCBuilder
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$ServiceCImpl
+ com.ms.starwars.ui.details.DaggerDetailsActivityTest_HiltComponents_ApplicationC$SwitchingProvider
+com/ms/starwars/ui/home/HomeActivityTest_GeneratedInjector.java
+ com.ms.starwars.ui.home.HomeActivityTest_GeneratedInjector
+com/ms/starwars/ui/home/HomeActivityTest_ComponentDataHolder.java
+ com.ms.starwars.ui.home.HomeActivityTest_ComponentDataHolder
+com/ms/starwars/di/module/FakeUrlProviderModule_ProvideUrlFactory.java
+ com.ms.starwars.di.module.FakeUrlProviderModule_ProvideUrlFactory
+ com.ms.starwars.di.module.FakeUrlProviderModule_ProvideUrlFactory$InstanceHolder
+com/ms/starwars/ui/details/DetailsActivityTest_ComponentDataHolder.java
+ com.ms.starwars.ui.details.DetailsActivityTest_ComponentDataHolder
+com/ms/starwars/ui/home/HomeActivityTest_HiltComponents.java
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ActivityC
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ActivityC$Builder
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ActivityCBuilderModule
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ActivityRetainedC
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ActivityRetainedC$Builder
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ActivityRetainedCBuilderModule
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ApplicationC
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$FragmentC
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$FragmentC$Builder
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$FragmentCBuilderModule
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ServiceC
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ServiceC$Builder
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ServiceCBuilderModule
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ViewC
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ViewC$Builder
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ViewCBuilderModule
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ViewWithFragmentC
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ViewWithFragmentC$Builder
+ com.ms.starwars.ui.home.HomeActivityTest_HiltComponents$ViewWithFragmentCBuilderModule
+hilt_aggregated_deps/com_ms_starwars_ui_details_DetailsActivityTest_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_ui_details_DetailsActivityTest_GeneratedInjectorModuleDeps
+com/ms/starwars/test/BuildConfig.java
+ com.ms.starwars.test.BuildConfig
+com/ms/starwars/ui/details/DetailsActivityTest_GeneratedInjector.java
+ com.ms.starwars.ui.details.DetailsActivityTest_GeneratedInjector
+hilt_aggregated_deps/com_ms_starwars_di_module_FakeUrlProviderModuleModuleDeps.java
+ hilt_aggregated_deps.com_ms_starwars_di_module_FakeUrlProviderModuleModuleDeps

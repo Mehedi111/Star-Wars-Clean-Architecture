@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="@dimen/margin_padding_4"
+    android:background="@drawable/bg_details"
+    app:strokeColor="@color/color_primary_dark"
+    app:strokeWidth="@dimen/card_stroke_width">
+
+    <TextView
+        android:id="@+id/empty_specie_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:padding="@dimen/margin_padding_16"
+        android:text="@string/text_empty_specie_info"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="@dimen/progress_bar_size"
+        android:layout_height="@dimen/progress_bar_size"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/margin_padding_16"
+        android:layout_gravity="center"
+        android:indeterminateDrawable="@drawable/custom_progress"
+        android:visibility="gone" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/species_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:overScrollMode="never"
+        android:paddingStart="@dimen/margin_padding_16"
+        android:visibility="gone"
+        android:paddingTop="@dimen/margin_padding_8"
+        android:paddingEnd="@dimen/margin_padding_16"
+        android:paddingBottom="@dimen/margin_padding_8"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:itemCount="2"
+        tools:listitem="@layout/layout_specie_item" />
+
+</com.google.android.material.card.MaterialCardView>

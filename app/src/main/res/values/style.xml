@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--SEARCHVIEW-->
+    <style name="AppSearchView" parent="Widget.AppCompat.SearchView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/text_col_primary</item>
+        <item name="hintTextColor">@color/text_col_hint</item>
+    </style>
+
+    <!--IMAGE VIEW-->
+    <style name="ImageViewStyle">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+
+
+</resources>

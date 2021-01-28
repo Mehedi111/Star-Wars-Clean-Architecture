@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="@dimen/margin_padding_4"
+    app:strokeColor="@color/color_primary_dark"
+    app:strokeWidth="@dimen/card_stroke_width">
+
+    <TextView
+        android:id="@+id/empty_planet_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:padding="@dimen/margin_padding_16"
+        android:text="@string/text_empty_planet_info"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="@dimen/progress_bar_size"
+        android:layout_height="@dimen/progress_bar_size"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/margin_padding_16"
+        android:layout_gravity="center"
+        android:indeterminateDrawable="@drawable/custom_progress"
+        android:visibility="gone" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/planet_details_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_details"
+        android:padding="@dimen/margin_padding_16"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/planet_name_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintBottom_toTopOf="@+id/planet_population_tv"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="NAME: Alderaan" />
+
+        <TextView
+            android:id="@+id/planet_population_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            app:layout_constraintTop_toBottomOf="@+id/planet_name_tv"
+            tools:text="POPULATION: 2000000000" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</com.google.android.material.card.MaterialCardView>

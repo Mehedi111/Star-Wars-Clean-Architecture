@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:fillViewport="true"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_color"
+        tools:context=".ui.details.DetailsActivity">
+
+        <TextView
+            android:id="@+id/header_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_padding_16"
+            android:fontFamily="@font/poppins_semibold"
+            android:padding="@dimen/margin_padding_8"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline4"
+            android:textColor="@color/color_primary_dark"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Wedge Antilles Profile" />
+
+        <include
+            android:id="@+id/profile_view"
+            layout="@layout/layout_profile_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_padding_16"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/header_title" />
+
+        <TextView
+            android:id="@+id/planet_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_padding_16"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="@string/text_planet"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/profile_view" />
+
+        <include
+            android:id="@+id/planet_details_view"
+            layout="@layout/layout_planet_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_padding_16"
+            android:layout_marginEnd="@dimen/margin_padding_16"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/planet_tv" />
+
+        <TextView
+            android:id="@+id/species_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_padding_16"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="@string/text_species"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/planet_details_view" />
+
+        <include
+            android:id="@+id/species_details_view"
+            layout="@layout/layout_species_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_padding_16"
+            android:layout_marginEnd="@dimen/margin_padding_16"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/species_tv" />
+
+        <TextView
+            android:id="@+id/films_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_padding_16"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="@string/text_films"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/species_details_view" />
+
+        <ProgressBar
+            android:id="@+id/film_progress_bar"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="@dimen/progress_bar_size_small"
+            android:layout_height="@dimen/progress_bar_size_small"
+            android:layout_marginStart="@dimen/margin_padding_8"
+            android:indeterminateDrawable="@drawable/custom_progress"
+            android:visibility="gone"
+            app:layout_constraintStart_toEndOf="@+id/films_tv"
+            app:layout_constraintTop_toTopOf="@+id/films_tv"
+            app:layout_constraintBottom_toBottomOf="@+id/films_tv"
+            />
+
+        <include
+            android:id="@+id/film_details_view"
+            layout="@layout/layout_film_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/films_tv" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

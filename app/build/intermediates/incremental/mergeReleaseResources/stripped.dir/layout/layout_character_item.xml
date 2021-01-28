@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/margin_padding_8"
+    android:layout_marginBottom="@dimen/margin_padding_8"
+    android:background="?attr/selectableItemBackground">
+
+    <ImageView
+        android:id="@+id/character_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/image_content_des_default"
+        android:padding="@dimen/margin_padding_16"
+        android:src="@drawable/ic_search"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/drawable_tint_grey" />
+
+    <TextView
+        android:id="@+id/character_name_text_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_semibold"
+        android:gravity="start"
+        android:includeFontPadding="false"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/more_info_arrow_image_button"
+        app:layout_constraintStart_toEndOf="@id/character_image_view"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Character name" />
+
+    <TextView
+        android:id="@+id/character_birth_year_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="@id/character_name_text_view"
+        app:layout_constraintTop_toBottomOf="@id/character_name_text_view"
+        tools:text="19YYB" />
+
+
+    <ImageView
+        android:id="@+id/more_info_arrow_image_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:contentDescription="@string/content_description_more_arrow"
+        android:padding="@dimen/margin_padding_8"
+        android:src="@drawable/ic_baseline_arrow_forward"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/drawable_tint_grey" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
