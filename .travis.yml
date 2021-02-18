@@ -44,10 +44,6 @@ before_script:
 
 script:
   - ./gradlew build connectedCheck
-  - ./gradlew clean installDebug
-  - ./gradlew check
-  - ./gradlew testDebugUnitTest
-  - ./gradlew connectedDebugAndroidTest
 
 before_install:
   - chmod +x gradlew
